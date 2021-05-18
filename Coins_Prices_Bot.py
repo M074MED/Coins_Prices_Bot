@@ -2,9 +2,9 @@ import requests
 import time
 
 # global variables
-API_Key = "8d35a098-01ee-4f74-889e-3b5a66b51565"
-Bot_token = "1742645736:AAHBaR8KDN0kullICbJWXO6Fll0f420jAtc"
-chat_id = 1227714835
+API_Key = ""     # Enter the API Key
+Bot_token = ""   # Enter the Bot token
+chat_id =        # Enter your chat id
 btc_limit = 50000
 eth_limit = 25000
 time_interval = 5 * 60
